@@ -1,3 +1,7 @@
 # Employee Management System
 
-Version 1.0
+Version 1.1
+
+Employee Search Added
+
+Salary Module Added
