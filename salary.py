@@ -2,4 +2,6 @@ print("Salary Module")
 
 print("Generate Salary")
 
-print("Salary Report")
+print("Download Salary Slip")
+
+print("Monthly Salary Report")
